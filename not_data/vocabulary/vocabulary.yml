@@ -14491,7 +14491,7 @@ rows:
     row_id: 2419
     last_seen: "2021-08-01"
   - icelandic: sjómaður
-    english: a fisherman
+    english: a fisherman, a seaman, a sailor
     depends_on: sjór, maður
     level: 3
     row_id: 2420
